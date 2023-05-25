@@ -19,4 +19,4 @@ for chave in dicionario:
 
 #Vendo se ja existe a chave no dicionario
 print(not 'peso' in dicionario)
-#print('altura' in dicionario)
+print('altura' in dicionario)
